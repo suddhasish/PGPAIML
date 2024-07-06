@@ -1,0 +1,39 @@
+Descriptive analysis > What happned This is EDA
+
+Diagnostic Analysis > why it happned
+
+Predictive > ML automation
+
+Prescriptive > Solution to solve problem 
+
+Agenda:
+
+Understand Problem Statement 
+Understand Data defination 
+Comprehensive Data Review
+
+Univariate Ana
+Multi Variate Analy
+Basic clean 
+
+
+Predict house price based on attibute dimension of house:
+
+Understand data is:
+Numeric ? 
+Categoric ?
+
+Asssign right data type:
+
+do not relay on pandas defination
+
+
+#skewness and kurtosis ?
+
+mean median more  kmin 
+
+qq plot
+
+
+
+
